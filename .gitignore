@@ -1,5 +1,6 @@
-.~lock.MSFTPrices.csv#
-.~lock.FamaFrenchFactors.csv
-.~lock.EfficientFrontierPortfoliosSlim.csv#
+.Big9Returns2017.csv
+.EfficientFrontierPortfoliosSlim.csv
+.FamaFrenchFactors.csv
+.MSFTPrices.csv
 
 portfolioRiskManagement/.ipynb_checkpoints
